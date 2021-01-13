@@ -1,3 +1,9 @@
+/**
+ * Burussakorn Ruangon
+ * ID: 632115028
+ * e-mail: burussakorn_ruangon@elearning.cmu.ac.th
+ */
+
 public class Circle {
     private double radius = 1;
     private double x = 0.0;
