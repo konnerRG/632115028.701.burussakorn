@@ -1,3 +1,9 @@
+/**
+ * Burussakorn Ruangon
+ * ID: 632115028
+ * e-mail: burussakorn_ruangon@elearning.cmu.ac.th
+ */
+
 public class TestCircle {
     public static void main(String[]args){
         Circle cir1 = new Circle(2.0,0.0,0.0);
